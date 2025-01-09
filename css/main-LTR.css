@@ -29,6 +29,15 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
 - Dark Theme Rules
 ===*/
 /* start global, helper classes , Components Rules*/
+
+@font-face {
+  font-family: "Unbounded";
+  src: url("webfonts/Unbounded-VariableFont_wght.ttf") format("truetype");
+  font-weight: 200 900; /* Prend en charge toutes les épaisseurs */
+  font-style: normal;
+  font-display: swap; /* Affiche une police temporaire pendant le chargement */
+}
+
 :root {
   /*Colors CSS Varibales*/
   /*================  main-color values */
@@ -73,6 +82,7 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
   /*================  warning-color values */
   --clr-warning: #9b6a01;
   --clr-warning-rgb: 155, 106, 1;
+
   --ltr-main-font-f: "Jost", "sans-serif";
   --rtl-main-font-f: "Tajawal", "sans-serif";
 }
@@ -225,6 +235,34 @@ a:hover {
   top: 100%;
 }
 .featured-text svg.wavey-underline path {
+  fill: var(--clr-main);
+}
+/*-----------------------------------*/
+
+.featured-text-title {
+  color: white;
+  position: relative;
+  font-size: 2.8rem;
+  line-height: 14px;
+}
+
+.featured-text-title svg {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: calc(100% + 10px);
+  height: calc(100% + 40px);
+  transform: translate(-50%, -50%);
+}
+.featured-text-title svg path {
+  stroke: var(--clr-main);
+  stroke-width: 0.5rem;
+  fill: transparent;
+}
+.featured-text-title svg.wavey-underline {
+  top: 100%;
+}
+.featured-text-title svg.wavey-underline path {
   fill: var(--clr-main);
 }
 
@@ -2234,10 +2272,11 @@ body.rounded-btns .read-more {
 .hero-swiper-slider .slide-title,
 .page-hero .hero-text-area .hero-title {
   font-weight: 900;
-  font-size: 5.5rem;
+  font-size: 6rem;
   text-transform: capitalize;
   margin-bottom: 1.75rem;
   line-height: 1.5;
+  font-family: "Unbounded", serif, Arial, sans-serif;
 }
 .hero-swiper-slider .slide-title .first-word,
 .page-hero .hero-text-area .hero-title .first-word {
@@ -5428,3 +5467,7 @@ body.dark-theme .about .stats-counter.stats-cards .stat-box {
 }
 
 /*    End dark theme rules  */ /*# sourceMappingURL=main-LTR.css.map */
+
+h2 {
+  font-family: "Unbounded", serif, Arial, sans-serif;
+}
