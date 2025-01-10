@@ -1,1 +1,118 @@
-Pourquoi nos clients choisissent de travailler avec nous
+Politique de Confidentialité
+
+Date de dernière mise à jour : [10 janvier 2025]
+
+Chez NewD, nous attachons une grande importance à la protection de vos données personnelles. La présente charte sur le respect de la vie privée (la « Charte ») a pour objectif de formaliser notre engagement quant au respect de la vie privée des utilisateurs de notre site internet [https://www.portfoliobrus.com] (le « Site »).
+
+La Charte et les Conditions Générales du Site forment un ensemble contractuel. Tous les termes en majuscules non définis dans la présente Charte sont définis dans les Conditions Générales consultables ici : [lien des CGV].
+
+Dans le cadre de la mise à disposition de notre Site, nous traitons vos données à caractère personnel dans le respect du Règlement Général sur la Protection des Données 2016/679 du 27 avril 2016 (« RGPD ») et dans les conditions exposées ci-après.
+
+1. Données collectées et cas d'utilisation
+
+Nous collectons et traitons des données à caractère personnel uniquement lorsque cela est nécessaire. Voici les cas principaux de collecte :
+
+1.1 Navigation sur le Site
+
+Données de connexion : adresse IP, type de navigateur, pages consultées, date et heure de connexion.
+
+Cookies : Nous utilisons des cookies pour améliorer votre expérience utilisateur (voir section 5 ci-dessous).
+
+1.2 Formulaires de contact et devis
+
+Données collectées : nom, prénom, adresse e-mail, numéro de téléphone, informations sur votre demande.
+
+Finalité : répondre à vos questions, élaborer un devis ou fournir des informations sur nos services.
+
+1.3 Commandes et paiements
+
+Données collectées : informations de facturation, détails de paiement (via des prestataires externes sécurisés).
+
+Finalité : gestion des commandes et paiements pour nos services d'impression 3D.
+
+1.4 Newsletters
+
+Données collectées : adresse e-mail.
+
+Finalité : envoi d'informations, actualités et promotions liées à nos services.
+
+Vous pouvez vous désabonner à tout moment en cliquant sur le lien présent dans chaque e-mail ou en nous contactant directement.
+
+2. Protection de vos données
+
+Nous avons mis en place des mesures techniques et organisationnelles pour garantir la sécurité, la confidentialité et l'intégrité de vos données. Bien que nous prenions toutes les précautions raisonnables, aucune mesure de sécurité n'est infaillible.
+
+Stockage des données :
+
+Vos données sont stockées sur des serveurs sécurisés situés dans l'Union Européenne.
+
+Nous ne conservons vos données que pour la durée nécessaire à leur traitement.
+
+Accès aux données :
+
+L'accès à vos données est strictement limité à nos employés et prestataires habilités, dans le cadre de leurs fonctions.
+
+3. Partage de vos données
+
+3.1 Prestataires tiers
+
+Vos données peuvent être transmises à des prestataires tiers, uniquement dans le cadre des finalités présentées ci-dessus, tels que :
+
+Services de paiement en ligne (exemple : Stripe ou PayPal).
+
+Services de livraison (le cas échéant).
+
+3.2 Autorités publiques
+
+Nous pouvons être amenés à partager vos données avec des autorités publiques en cas d'obligation légale.
+
+4. Vos droits
+
+Conformément au RGPD, vous disposez des droits suivants :
+
+Accès à vos données.
+
+Rectification de vos données.
+
+Suppression de vos données (« droit à l'oubli »).
+
+Opposition ou limitation du traitement de vos données.
+
+Portabilité des données.
+
+Pour exercer ces droits, contactez-nous à :
+
+E-mail : contact@newd.com
+
+Adresse postale : [Votre adresse physique].
+
+Vous devrez fournir une copie d’un justificatif d’identité pour vérification.
+
+5. Cookies
+
+5.1 Utilisation des cookies
+
+Nous utilisons des cookies pour :
+
+Analyser la fréquentation du site.
+
+Améliorer l’expérience utilisateur.
+
+Assurer le bon fonctionnement des services (exemple : sessions utilisateur).
+
+5.2 Gestion des cookies
+
+Lors de votre première visite, un bandeau vous permet de paramétrer votre consentement concernant les cookies. Vous pouvez modifier vos préférences à tout moment dans les paramètres de votre navigateur.
+
+6. Modifications de la Charte
+
+Nous nous réservons le droit de modifier cette Charte à tout moment. La date de mise à jour sera indiquée en haut de cette page. En cas de modifications importantes, nous vous en informerons par e-mail ou via le Site.
+
+7. Contact
+
+Pour toute question relative à cette Charte ou au traitement de vos données, contactez-nous :
+
+E-mail : contact@newd.com
+
+Adresse postale : [Votre adresse physique].
+

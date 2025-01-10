@@ -1,0 +1,221 @@
+**************PARTIE STATISTIQUE DANS L'INDEX
+
+
+    <!-- Start  stats Section                 TOUJOURS PAS DISPONIBLE       -->
+    <section class="stats js-stats-counter mega-section">
+      <!--<div
+        class="overlay-photo-image-bg"
+        data-bg-img="assets/images/sections-bg-images/pattern-bg-3.jpg"
+        data-bg-opacity=".2"
+      ></div>
+      n-->
+      <div class="container">
+        <div class="stats-inner">
+          <div class="row">
+            <!--Info One
+            <div class="col-12 col-md-6 col-lg-3 stat-box">
+              <div class="stat-box-inner" data-tilt="data-tilt">
+                <i class="flaticon-project-management stat-icon"></i>
+                <p class="stat-num">
+                  <span
+                    class="counter"
+                    data-from="10"
+                    data-to="750"
+                    data-speed="3000"
+                    data-refresh-interval="50"
+                  ></span
+                  ><span class="sign">+</span>
+                </p>
+                <span class="stat-desc">finished projects</span>
+              </div>
+            </div>
+            -->
+            <!--Info Two
+            <div class="col-12 col-md-6 col-lg-3 stat-box">
+              <div class="stat-box-inner" data-tilt="data-tilt">
+                <i class="flaticon-content-management stat-icon"></i>
+                <p class="stat-num">
+                  <span
+                    class="counter"
+                    data-from="0"
+                    data-to="23"
+                    data-speed="3000"
+                    data-refresh-interval="50"
+                  ></span
+                  ><span class="sign">+</span>
+                </p>
+                <span class="stat-desc">Created jobs</span>
+              </div>
+            </div>
+            -->
+            <!--Info Three
+            <div class="col-12 col-md-6 col-lg-3 stat-box">
+              <div class="stat-box-inner" data-tilt="data-tilt">
+                <i class="flaticon-user stat-icon"></i>
+                <p class="stat-num">
+                  <span
+                    class="counter"
+                    data-from="0"
+                    data-to="200"
+                    data-speed="3000"
+                    data-refresh-interval="50"
+                  ></span
+                  ><span class="sign">+</span>
+                </p>
+                <span class="stat-desc">happy customers</span>
+              </div>
+            </div>
+            -->
+            <!--Info Four
+            <div class="col-12 col-md-6 col-lg-3 stat-box">
+              <div class="stat-box-inner" data-tilt="data-tilt">
+                <i class="flaticon-aim stat-icon"></i>
+                <p class="stat-num">
+                  <span
+                    class="counter"
+                    data-from="0"
+                    data-to="28"
+                    data-speed="3000"
+                    data-refresh-interval="50"
+                  ></span
+                  ><span class="sign">+</span>
+                </p>
+                <span class="stat-desc">years Of exprience</span>
+              </div>
+            </div>
+            -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End  stats Section-->
+
+
+**************PARTIE PORTFOLIO DANS L'INDEX
+
+
+    <!-- Start  portfolio-slider Section-->
+    <section class="portfolio mega-section" id="portfolio">
+      <!--<div class="container">
+        <div class="sec-heading">
+          <div class="content-area">
+            <span class="pre-title wow fadeInUp" data-wow-delay=".2s"
+              >portfolio</span
+            >
+            <h2 class="title wow fadeInUp" data-wow-delay=".4s">
+              Awesome <span class="hollow-text">portfolio</span>
+            </h2>
+          </div>
+          <div class="cta-area wow fadeInUp" data-wow-delay=".8s">
+            <a class="cta-btn btn-solid" href="portfolio-grid.html"
+              >see more <i class="bi bi-arrow-right icon"></i
+            ></a>
+          </div>
+        </div>
+        <div class="portfolio-wrapper">
+          <ul class="portfolio-btn-list wow fadeInUp" data-wow-delay=".2s">
+            <li class="portfolio-btn active" data-filter="*">All</li>
+            <li class="portfolio-btn" data-filter=".mobile">mobile apps</li>
+            <li class="portfolio-btn" data-filter=".web">cloud</li>
+            <li class="portfolio-btn" data-filter=".data">data analaysis</li>
+            <li class="portfolio-btn" data-filter=".hosting">hosting</li>
+          </ul>
+          <div class="portfolio-group wow fadeIn" data-wow-delay=".4s">
+            <div class="row">
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item mobile">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/1.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">mobile apps</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item web">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/2.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">cloud</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item data">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/3.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">data analaysis</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item mobile">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/4.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">hosting</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item hosting">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/5.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">SEO</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4 portfolio-item mobile">
+                <div class="item">
+                  <a class="portfolio-img-link" href="portfolio-single.html"
+                    ><img
+                      class="portfolio-img img-fluid"
+                      loading="lazy"
+                      src="assets/images/portfolio/6.jpg"
+                      alt="portfolio item photo"
+                  /></a>
+                  <div class="item-info">
+                    <h3 class="item-title">other category</h3>
+                    <i class="bi bi-arrow-right icon"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      -->
+    </section>
+    <!-- End  portfolio-slider Section-->
